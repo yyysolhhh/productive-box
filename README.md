@@ -1,3 +1,4 @@
+<!--
 <p align="center">
   <a href="http://lovera.maxam.now.sh/">
     <img src="https://user-images.githubusercontent.com/25841814/79395484-5081ae80-7fac-11ea-9e27-ac91472e31dd.png" alt="screenshot" width="500">
@@ -47,3 +48,4 @@ This project uses GitHub graphQL API to get the commit histories and write into 
 1. Add the following environment variables:
    - **GH_TOKEN:** The GitHub token generated above.
 1. [Pin the newly created Gist](https://help.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile)
+-->
